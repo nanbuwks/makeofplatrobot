@@ -1,3 +1,7 @@
-# cosmicradiation
+#「栽培ロボットを作ろう」
 
-宇宙放射線の検討
+
+https://qiita.com/nanbuwks/items/3d807e30e71e893c94eb
+
+
+こちらの記事について、Issue 管理などをこちらで行います。
